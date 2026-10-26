@@ -1,0 +1,6 @@
+{
+  "name": "WanderWise – Smart Tourism Planner",
+  "description": "Full-Stack Smart Tourism Planner and Destination Recommendation System powered by Machine Learning content-based filtering, interactive itinerary planner, and destination explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
